@@ -1,5 +1,7 @@
 # SpectruModulator
-A software spectrum waterfall image generator that converts images to sound in wav files
+A software spectrum waterfall image generator specifically for FM broadcast transmitters that converts images to sound in wav files.
+
+Use this with an actual transmitter, not a short range bluetooth adapter
 
 # Compiling
 
